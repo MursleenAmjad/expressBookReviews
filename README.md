@@ -1,1 +1,1 @@
-# coding-project-template
+# This is sample express project
